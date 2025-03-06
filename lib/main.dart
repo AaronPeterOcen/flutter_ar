@@ -39,8 +39,8 @@ class _AugmentedRealityViewState extends State<AugmentedRealityView> {
   String? _selectedModelUrl;
   final List<String> _modelUrls = [
     'https://www.freepnglogos.com/uploads/furniture-png/furniture-png-transparent-furniture-images-pluspng-15.png',
-    'https://example.com/path/to/another/model.glb',
-    'https://example.com/path/to/yet/another/model.glb',
+    'https://www.freepnglogos.com/uploads/fridge-png/fridge-refrigerator-hisense-australia-1.png',
+    'https://www.freepnglogos.com/uploads/washing-machine-png/washing-machine-samsung-service-centre-delhi-gurgaon-faridabad-noida-28.png',
   ];
 
   @override
